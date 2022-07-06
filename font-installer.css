@@ -1,0 +1,165 @@
+/*FONTS*/
+
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-Thin.ttf') format('truetype');
+  font-style:  normal;
+  font-weight: 100;
+}
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-ThinItalic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-ExtraLight.ttf') format('truetype');
+  font-style:  normal;
+  font-weight: 200;
+}
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-ExtraLightItalic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-Light.ttf') format('truetype');
+  font-style:  normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-LightItalic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-Italic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style:  normal;
+}
+@font-face {
+  font-family: 'Montserrat'; src: url('resources/webfonts/Montserrat/Montserrat-ExtraBoldItalic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 800;
+}
+
+/* RECURSIVE */
+
+@font-face {
+  font-family: 'Recursive'; src: url('resources/webfonts/Recursive/Recursive-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Recursive'; src: url('resources/webfonts/Recursive/Recursive-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Recursive'; src: url('resources/webfonts/Recursive/Recursive-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Recursive'; src: url('resources/webfonts/Recursive/Recursive-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Recursive'; src: url('resources/webfonts/Recursive/Recursive-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Recursive'; src: url('resources/webfonts/Recursive/Recursive-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Recursive'; src: url('resources/webfonts/Recursive/Recursive-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* RECURSIVE MONO  */
+
+@font-face {
+  font-family: 'Recursive Monospace'; src: url('resources/webfonts/Recursive_Monospace/Recursive_Monospace-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Recursive Monospace'; src: url('resources/webfonts/Recursive_Monospace/Recursive_Monospace-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Recursive Monospace'; src: url('resources/webfonts/Recursive_Monospace/Recursive_Monospace-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Recursive Monospace'; src: url('resources/webfonts/Recursive_Monospace/Recursive_Monospace-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Recursive Monospace'; src: url('resources/webfonts/Recursive_Monospace/Recursive_Monospace-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Recursive Monospace'; src: url('resources/webfonts/Recursive_Monospace/Recursive_Monospace-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Recursive Monospace'; src: url('resources/webfonts/Recursive_Monospace/Recursive_Monospace-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}

@@ -46,6 +46,12 @@ code, .code {
                monospace;
 }
 
+.recursive-mono, .recursive-monospace {
+  font-family: 'Recursive Monospace',
+               Consolas,
+               monaco,
+               monospace;
+}
 
 /* Sans-Serif Typefaces */
 
@@ -59,6 +65,15 @@ code, .code {
                sans-serif;
 }
 
+.montserrat {
+  font-family: 'Montserrat',
+               sans-serif;
+}
+
+.recursive {
+  font-family: 'Recursive',
+               sans-serif;
+}
 
 /* Serif Typefaces */
 
@@ -97,4 +112,5 @@ code, .code {
   font-family: baskerville,
                serif;
 }
+
 
